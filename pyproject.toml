@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "python-template"
 version = "0.1.0"
-description = ""
+description = "This program allows you to calculate your age in 2050"
 authors = ["Luis O Cuevas <lucuevas.cs@gmail.com>"]
 
 [tool.poetry.dependencies]
