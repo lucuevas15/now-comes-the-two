@@ -2,7 +2,6 @@
 # Input:  Your current age
 # Output: Your current age followed by your age in 2050
 
-# Create your variables here
 # I have added a variable for the current year
 # I have added a variable for the current age
 # I have verified the variables run properly with each other
